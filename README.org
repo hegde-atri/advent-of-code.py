@@ -1,4 +1,2 @@
 #+title: AOC in Python
 #+author: Atri Hegde
-
-* AOC in Python
